@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+dpkg-divert --add --package stepgrampa --rename --divert /usr/bin/engrampa.real /usr/bin/engrampa
