@@ -1,3 +1,11 @@
+stepgrampa (1.1) bullseye; urgency=medium
+
+  * This is a fake "update" with no
+  changes made, used to test the
+  autobuild system
+
+ -- rail5 <andrew@rail5.org>  Tue, 15 Aug 2023 15:43:24 -0400
+
 stepgrampa (1.0) bullseye; urgency=low
 
   * Initial release
