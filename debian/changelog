@@ -1,3 +1,9 @@
+stepgrampa (1.2) stable; urgency=medium
+
+  * Moving everything to Debian 12
+
+ -- rail5 <andrew@rail5.org>  Fri, 18 Aug 2023 23:16:50 -0400
+
 stepgrampa (1.1) bullseye; urgency=medium
 
   * This is a fake "update" with no
